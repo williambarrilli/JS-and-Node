@@ -1,0 +1,15 @@
+{
+  "name": "exercicio_yargs",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "app.js",
+  "dependencies": {
+    "yargs": "^12.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "william barrilli",
+  "license": "ISC"
+}
